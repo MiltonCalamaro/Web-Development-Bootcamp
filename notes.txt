@@ -1,0 +1,5 @@
+### un glosario de todas las herramientas de desarrollo web
+https://devdocs.io/
+
+### details of elements and atributtes of html tag
+https://developer.mozilla.org/es/docs/Web/HTML
